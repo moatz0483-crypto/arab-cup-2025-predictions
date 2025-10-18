@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arab Cup 2025 Predictions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #004080;
+            color: #fff;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        .groups, .knockouts {
+            margin: 20px auto;
+            padding: 20px;
+            max-width: 600px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #004080;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 15px 0;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #008000;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 14px;
+            color: #888;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>كأس العرب 2025 - توقعاتك</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Arab_Cup_logo_2025.png" alt="Arab Cup 2025 Logo" width="150">
+</header>
+
+<section class="groups">
+    <h2>المجموعات</h2>
+    <p><strong>المجموعة 1:</strong> قطر، تونس، سوريا، فلسطين</p>
+    <p><strong>المجموعة 2:</strong> المغرب، السعودية، عمان، اليمن</p>
+    <p><strong>المجموعة 3:</strong> مصر، الأردن، الإمارات، الكويت</p>
+    <p><strong>المجموعة 4:</strong> الجزائر، العراق، البحرين، لبنان</p>
+</section>
+
+<section class="knockouts">
+    <h2>الأدوار الإقصائية</h2>
+    <p>ربع النهائي → نصف النهائي → النهائي</p>
+</section>
+
+<section>
+    <h2>نظام النقاط</h2>
+    <p>3 نقاط للنتيجة الصحيحة، 1 نقطة لتوقع الفائز فقط</p>
+</section>
+
+<section>
+    <button onclick="alert('تم إنشاء رابط المشاركة!');">إنشاء رابط مشاركة التوقع</button>
+</section>
+
+<footer>
+    تم إنشاء هذه الصفحة وتطويرها بواسطة <strong>معتز شرحبيل</strong>
+</footer>
+
+</body>
+</html>
